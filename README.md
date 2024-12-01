@@ -16,7 +16,7 @@ This is a simple chatbot built using Python and the OpenAI GPT-3.5 model. The ch
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yChaudharyUsman/chatbot.git
+    git clone https://github.com/yourusername/chatbot.git
     cd chatbot
     ```
 
