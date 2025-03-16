@@ -41,3 +41,4 @@ This is a simple chatbot built using Python and the OpenAI GPT-3.5 model. The ch
 
 ## Example
 
+![chatbot](https://github.com/user-attachments/assets/23ee15ce-734d-4d4b-97ca-ec0d4165d4d7)
